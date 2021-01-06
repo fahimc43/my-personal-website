@@ -1,0 +1,185 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+/*=========================Navigation SECTION====================================*/
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+    margin-right: 100px;
+    font-size: 24px;
+    color: #3C3C3C;
+    ;
+}
+.manu{
+    display: inline-block;
+    margin-right: 3px;
+
+}
+.item{
+    color: #3C3C3C;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+    
+/*=========================Content SECTION====================================*/
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+h1{
+    font-size: 55px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    width: 700px;
+}
+h2{
+    font-size: 45px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+h3{
+    font-size: 24px;
+    font-weight: 700;
+    color: #363958;
+    ;
+}
+.orange-highlight{
+    color: #FF8367;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin: 5%;
+    padding: 1%;
+}
+.half-width img{
+    width: 100%;
+}
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(35deg, lightsalmon, tomato) ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.button{
+    margin-top: 30px;
+}
+.top-line{
+    line-height: 15px;
+    letter-spacing: 3px;
+}
+.storyline{
+    line-height: 25px;
+    letter-spacing: 0.1px;
+
+}
+
+/*=========================LASTET WORKING PROJECT SECTION====================================*/
+.project-hedline{
+    letter-spacing: 3px;
+    text-align: center;
+}
+.project-box{
+    background-color: #FFFFFF;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 18px;
+    width: 330px;
+    height: 335px;
+    
+
+}
+.poject-img{
+    width: 330px;
+    height: 210px;
+    padding-left: 0px;
+    
+    
+}
+#box-area{
+    margin-left: 100px;
+}
+#last-work{
+    background-color: #F8F9FC;
+   
+    
+
+}
+
+/*=========================Work Inquiry SECTION====================================*/
+
+.text-button{
+    
+    margin: 80px;
+    width: 900px;
+    height: 220px;
+    background-image: url(shapes/Group_33094_1.png);
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-size: 900px 220px;
+    margin-left: 220px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: relative;
+    
+    
+}
+.text-button h2{
+    position: absolute;
+    top: 30px;
+    left: 60px;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    font-size: 60px;
+    line-height: 60px;
+
+}
+.text-button a{
+    position: absolute;
+    right: 60px;
+    bottom: 90px;
+}
+/*=========================FOOTER SECTION====================================*/
+
+.footer{
+   text-align: center;
+}
+
+.footer .text1 h3{
+font-family: Bebas Neue;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+color: #696871;
+}
+
+.footer .text1 h4{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 42px;
+    color: #363958;
+    margin-top: -15px;
+    margin-bottom: 15px;
+}
+.logo-img {
+    height: 34px;
+    width: 36px;
+    padding: 5px;
+}
